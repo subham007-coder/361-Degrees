@@ -61,18 +61,18 @@ body {
   justify-content: center;
 }
 
-.page3{
+.page3 {
   margin-top: 100px;
   color: #fff;
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
-.company{
+.company {
   font-size: 50px;
   overflow: hidden;
   font-weight: bold;
 }
 
-.company span{
+.company span {
   display: inline-block;
 }
