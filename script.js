@@ -46,7 +46,7 @@ string.addEventListener("mouseleave", (event) => {
 });
 
 
-
+// Text animations
 
 let h1 = document.querySelector('.company')
 
@@ -65,7 +65,6 @@ splitText.forEach((event, idx) => {
   } else{
     store += `<span class="b">${event}</span>`;
   }
-
 });
 
 h1.innerHTML = store;
